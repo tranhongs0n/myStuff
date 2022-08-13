@@ -1,0 +1,78 @@
+unmapAll
+map k enterInsertMode
+map v enterVisualMode
+map V enterVisualLineMode
+
+## Navigating the page
+map e scrollDown
+map u scrollUp
+map E scrollPageDown
+map U scrollPageUp
+map n scrollLeft
+map i scrollRight 
+map N scrollToLeft
+map I scrollToRight
+map gg scrollToTop
+map G scrollToBottom
+
+map c copyCurrentUrl
+map p openCopiedUrlInCurrentTab
+map P openCopiedUrlInNewTab
+map gu goUp
+map gU goToRoot
+
+map f LinkHints.activateMode
+map F LinkHints.activateModeToOpenInNewTab
+map ;n LinkHints.activateModeToOpenInNewForegroundTab
+map ;m LinkHints.activateModeWithQueue
+map ;y LinkHints.activateModeToCopyLinkUrl
+map ;d LinkHints.activateModeToDownloadLink
+map ;N LinkHints.activateModeToOpenIncognito
+
+map < goPrevious
+map > goNext
+
+map m Marks.activateCreateMode
+map  M Marks.activateGotoMode
+
+## Using the vomnibar
+map o Vomnibar.activate
+map O Vomnibar.activateInNewTab
+map b Vomnibar.activateBookmarks
+map B Vomnibar.activateBookmarksInNewTab
+map s Vomnibar.activateTabSelection
+map h Vomnibar.activateEditUrl
+map H Vomnibar.activateEditUrlInNewTab
+
+## Using find
+map / enterFindMode
+map . performFind
+map , performBackwardsFind
+
+## Navigating history
+map l goBack
+map y goForward
+
+## Manipulating tabs
+map q removeTab
+map W moveTabToNewWindow
+map gk focusInput
+map tM toggleMuteTab
+map tu createTab
+map tn previousTab
+map ti nextTab
+map te visitPreviousTab
+map tN firstTab
+map tI lastTab
+map tt duplicateTab
+map tp togglePinTab
+map T restoreTab
+map txl closeTabOnLeft
+map txr closeTabOnRight
+map txx closeOtherTabs
+map t, moveTabLeft
+map t. moveTabRight
+
+
+## Miscellaneous
+map ? showHelp
