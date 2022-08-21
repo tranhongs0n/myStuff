@@ -22,7 +22,7 @@ keycode  12 =          minus    underscore            equal              plus 	 
 keycode  13 =          equal          plus         multiply          division
                                                                                         
 keycode  16 =              q             Q       adiaeresis        Adiaeresis    Control_q
-keycode  17 =              w             W               up             Aring    Control_w 
+keycode  17 =              w             W               Up             Aring    Control_w 
 keycode  18 =              f             F           atilde            Atilde    Control_f
 keycode  19 =              p             P           oslash          Ooblique    Control_p
 keycode  20 =              g             G       asciitilde        asciitilde    Control_g 	#       dead_ogonek        asciitilde
@@ -35,9 +35,9 @@ keycode  26 =    bracketleft     braceleft    guillemotleft        asciitilde   
 keycode  27 =   bracketright    braceright   guillemotright        asciitilde    Control_bracketright #    guillemotright         0x100203a
 keycode  43 =     Return	# backslash           bar           Control_Return
 
-keycode  30 =              a             A             left            Aacute    Control_a
-keycode  31 =              r             R             down        asciitilde    Control_r
-keycode  32 =              s             S            right        asciitilde    Control_s
+keycode  30 =              a             A             Left            Aacute    Control_a
+keycode  31 =              r             R             Down        asciitilde    Control_r
+keycode  32 =              s             S            Right        asciitilde    Control_s
 keycode  33 =              t             T       dead_acute        asciitilde    Control_t 	#        dead_acute  dead_doubleacute
 keycode  34 =              d             D   dead_diaeresis        asciitilde    Control_d
 keycode  35 =              h             H       asciitilde        asciitilde    Control_h 	#        dead_caron        asciitilde
