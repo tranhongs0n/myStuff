@@ -18,11 +18,11 @@ keycode   8 =          seven     ampersand              eth               ETH   
 keycode   9 =          eight      asterisk            thorn             THORN    Delete
 keycode  10 =           nine     parenleft       asciitilde        asciitilde               #   leftsinglequotemark   leftdoublequotemark
 keycode  11 =           zero    parenright       asciitilde        asciitilde               #  rightsinglequotemark   rightdoublequotemark
-keycode  12 =          minus    underscore       equal        plus 	 Control_underscore          #            endash            emdash
+keycode  12 =          minus    underscore            equal              plus 	 Control_underscore          #            endash            emdash
 keycode  13 =          equal          plus         multiply          division
                                                                                         
 keycode  16 =              q             Q       adiaeresis        Adiaeresis    Control_q
-keycode  17 =              w             W            aring             Aring    Control_w 
+keycode  17 =              w             W               up             Aring    Control_w 
 keycode  18 =              f             F           atilde            Atilde    Control_f
 keycode  19 =              p             P           oslash          Ooblique    Control_p
 keycode  20 =              g             G       asciitilde        asciitilde    Control_g 	#       dead_ogonek        asciitilde
@@ -35,16 +35,16 @@ keycode  26 =    bracketleft     braceleft    guillemotleft        asciitilde   
 keycode  27 =   bracketright    braceright   guillemotright        asciitilde    Control_bracketright #    guillemotright         0x100203a
 keycode  43 =     Return	# backslash           bar           Control_Return
 
-keycode  30 =              a             A           aacute            Aacute    Control_a
-keycode  31 =              r             R       dead_grave        asciitilde    Control_r
-keycode  32 =              s             S           ssharp        asciitilde    Control_s
+keycode  30 =              a             A             left            Aacute    Control_a
+keycode  31 =              r             R             down        asciitilde    Control_r
+keycode  32 =              s             S            right        asciitilde    Control_s
 keycode  33 =              t             T       dead_acute        asciitilde    Control_t 	#        dead_acute  dead_doubleacute
 keycode  34 =              d             D   dead_diaeresis        asciitilde    Control_d
 keycode  35 =              h             H       asciitilde        asciitilde    Control_h 	#        dead_caron        asciitilde
 keycode  36 =              n             N           ntilde            Ntilde    Control_n
 keycode  37 =              e             E           eacute            Eacute    Control_e
 keycode  38 =              i             I           iacute            Iacute    Control_i
-keycode  39 =              o             O           apostrophe            quotedbl    Control_o
+keycode  39 =              o             O       apostrophe          quotedbl    Control_o
 keycode  40 =     apostrophe      quotedbl           otilde            Otilde
 
 keycode  44 =              z             Z               ae                AE    Control_z
@@ -58,7 +58,7 @@ keycode  51 =          comma          less     dead_cedilla        asciitilde
 keycode  52 =         period       greater       asciitilde        asciitilde           	#     dead_abovedot        asciitilde
 keycode  53 =          slash      question     questiondown        asciitilde    Delete
                                                                              
-keycode  58 =      BackSpace     BackSpace        BackSpace         BackSpace    Control_BackSpace
+keycode  58 =      BackSpace     BackSpace        BackSpace         BackSpace    
 keycode  86 =          minus    underscore       asciitilde        asciitilde 	 Control_underscore          #            endash            emdash
 keycode  57 =          space         space            space      nobreakspace    nul
 
