@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<keyboard width="4" bottom_row = "false">
+  <row>
+    <key key0="g" key5="r" key6="b"/>
+    <key key0="i" key6="y"/>
+    <key key0="o" key5="ơ" key6="ô"/>
+    <key key0="accent_hook_above" key5="accent_tilde" key6="accent_grave" key7="accent_aigu" key8="accent_dot_below"/>
+  </row>
+  <row>
+    <key key0="n" key5="m" key6="k"/>
+    <key key0="h" key6="l"/>
+    <key key0="a" key5="ă" key6="â" key7="shift"/>
+    <key key0="switch_numeric" key6="switch_text" key7="selectAll" key8="paste"/>
+  </row>
+  <row>
+    <key key0="t" key5="v" key6="z"/>
+    <key key0="c" key5="q" key6="p" key7="x" key8="j"/>
+    <key key0="u" key5="ư"/>
+    <key key0="backspace" key6="delete"/>
+  </row>
+  <row>
+    <key key0="d" key5="s" key6="đ"/>
+    <key key0="space" key5="left" key6="right" slider="true"/>
+    <key key0="e" key6="ê"/>
+    <key key0="enter"/>
+  </row>
+</keyboard>
